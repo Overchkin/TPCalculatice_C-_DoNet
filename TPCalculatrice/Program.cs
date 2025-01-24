@@ -4,18 +4,42 @@ using TPCalculatrice.Operations;
 
 class program
 {
+
+    static int GetintValue(int nb)
+    {
+        Console.WriteLine($"Saisissez la valeur {nb} entière");
+        string saisie = Console.ReadLine();
+        int resultat = 0;
+        if (saisie != null)
+        {
+            try
+            {
+                resultat = int.Parse(saisie);
+            }
+            catch
+            {
+                Console.WriteLine("Entrée invalide. Valeur par défaut : 0");
+                resultat = 0;
+            }
+
+
+        }
+        return resultat;
+    }
     static void Main(string[] args)
     {
+
 
         Console.WriteLine("Bienvenue sur ma calculatrice");
 
         while (true)
         {
             Console.WriteLine("Saissisez l'opérateur 'q' pour quitter");
-            string operateur = Console.ReadLine();
+            string operateur = Console.ReadLine()?.ToLower();
 
             if (operateur == "q")
             {
+                Console.WriteLine("Merci d'avoir utilisé la calculatrice !");
                 break;
             }
 
