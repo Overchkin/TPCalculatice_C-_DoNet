@@ -1,0 +1,9 @@
+# Ignorer les fichiers Visual Studio
+.vs/
+.vscode/
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
