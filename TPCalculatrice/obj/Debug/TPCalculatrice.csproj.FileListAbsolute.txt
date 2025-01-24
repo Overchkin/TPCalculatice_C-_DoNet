@@ -1,0 +1,7 @@
+C:\Users\Israël TODOME\source\repos\TPCalculatrice\TPCalculatrice\bin\Debug\TPCalculatrice.exe.config
+C:\Users\Israël TODOME\source\repos\TPCalculatrice\TPCalculatrice\bin\Debug\TPCalculatrice.exe
+C:\Users\Israël TODOME\source\repos\TPCalculatrice\TPCalculatrice\bin\Debug\TPCalculatrice.pdb
+C:\Users\Israël TODOME\source\repos\TPCalculatrice\TPCalculatrice\obj\Debug\TPCalculatrice.csproj.AssemblyReference.cache
+C:\Users\Israël TODOME\source\repos\TPCalculatrice\TPCalculatrice\obj\Debug\TPCalculatrice.csproj.CoreCompileInputs.cache
+C:\Users\Israël TODOME\source\repos\TPCalculatrice\TPCalculatrice\obj\Debug\TPCalculatrice.exe
+C:\Users\Israël TODOME\source\repos\TPCalculatrice\TPCalculatrice\obj\Debug\TPCalculatrice.pdb

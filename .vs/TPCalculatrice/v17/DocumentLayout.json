@@ -1,0 +1,201 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|c:\\users\\isra\u00EBl todome\\source\\repos\\tpcalculatrice\\tpcalculatrice\\operations\\soustraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\soustraction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\operations\\puissance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\puissance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\operations\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\multiplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\operations\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\modulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\operations\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\operations\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\ioperation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\historique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\historique.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\operations\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\addition.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\calculatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\calculatrice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\tpcalculatrice\\operations\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853394AC-29DE-4D86-8CCC-F2F10A9C09C1}|TPCalculatrice\\TPCalculatrice.csproj|solutionrelative:tpcalculatrice\\operations\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Soustraction.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Soustraction.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\Soustraction.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Soustraction.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\Soustraction.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA8AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:35:28.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Addition.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Addition.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\Addition.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Addition.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\Addition.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T19:31:04.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Historique.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Historique.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Historique.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Historique.cs",
+              "RelativeToolTip": "TPCalculatrice\\Historique.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-23T17:43:47.9Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IOperation.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\IOperation.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\IOperation.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\IOperation.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\IOperation.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-21T21:44:34.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Puissance.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Puissance.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\Puissance.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Puissance.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\Puissance.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-18T22:03:59.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Program.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Program.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Program.cs",
+              "RelativeToolTip": "TPCalculatrice\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:38:27.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Division.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\Division.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Division.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\Division.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:47:36.365Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Modulo.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Modulo.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\Modulo.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Modulo.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\Modulo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:48:26.095Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Multiplication.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Multiplication.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\Multiplication.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Multiplication.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\Multiplication.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:46:52.185Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Operation.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Operations\\Operation.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Operations\\Operation.cs",
+              "RelativeToolTip": "TPCalculatrice\\Operations\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T21:32:46.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Calculatrice.cs",
+              "DocumentMoniker": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Calculatrice.cs",
+              "RelativeDocumentMoniker": "TPCalculatrice\\Calculatrice.cs",
+              "ToolTip": "C:\\Users\\Isra\u00EBl TODOME\\source\\repos\\TPCalculatrice\\TPCalculatrice\\Calculatrice.cs",
+              "RelativeToolTip": "TPCalculatrice\\Calculatrice.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:39:21.707Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
