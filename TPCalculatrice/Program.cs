@@ -5,27 +5,35 @@ using TPCalculatrice.Operations;
 class program
 {
 
-    static int GetintValue(int nb)
+    static int GetintValue(string valeur)
     {
-        Console.WriteLine($"Saisissez la valeur {nb} entière");
-        string saisie = Console.ReadLine();
-        int resultat = 0;
-        if (saisie != null)
+        int? resultat = null; // Déclare `resultat` en dehors de la boucle
+
+        while (!resultat.HasValue)
         {
-            try
-            {
-                resultat = int.Parse(saisie);
-            }
-            catch
-            {
-                Console.WriteLine("Entrée invalide. Valeur par défaut : 0");
-                resultat = 0;
-            }
+            Console.WriteLine($"Saisissez la {valeur} valeur entière");
+            string saisie = Console.ReadLine();
 
-
+            if (!string.IsNullOrEmpty(saisie))
+            {
+                try
+                {
+                    resultat = int.Parse(saisie); // Essaie de convertir la saisie en entier
+                }
+                catch
+                {
+                    Console.WriteLine("Entrée invalide. Veuillez saisir un entier valide.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Entrée vide. Veuillez saisir un entier.");
+            }
         }
-        return resultat;
+
+        return resultat.Value; // Retourne la valeur de `resultat`
     }
+
     static void Main(string[] args)
     {
 
@@ -34,7 +42,7 @@ class program
 
         while (true)
         {
-            Console.WriteLine("Saissisez l'opérateur 'q' pour quitter");
+            Console.WriteLine("Saissisez l'opérateur 'q' pour quitter ou sur entrer pour commencer");
             string operateur = Console.ReadLine()?.ToLower();
 
             if (operateur == "q")
@@ -43,20 +51,20 @@ class program
                 break;
             }
 
-            Console.WriteLine("Saisissez le premier nombre");
-            var Operation1 = int.Parse(Console.ReadLine());
+            var Operation1 = GetintValue("première");
+            var Operation2 = GetintValue("seconde");
 
-            Console.WriteLine("Saisissez le deuxieme nombre");
-            var Operation2 = int.Parse(Console.ReadLine());
-
-            Console.WriteLine("Saisissez l operateur");
+            Console.WriteLine("Saisissez l'opérateur (+, -, *, /, %) :");
             string Operateur = Console.ReadLine();
 
             IOperation operation;
+            Operation SecondOperation;
 
             if (Operateur == "+")
             {
                 operation = new Addition(Operation1, Operation2);
+                SecondOperation = new Addition(Operation1, Operation2);
+                Console.WriteLine($"Additions égales ? {Operation.Equals(SecondOperation)}");
             }
             else if (Operateur == "-")
             {
@@ -83,14 +91,14 @@ class program
             Calculatrice Calcul = new Calculatrice(operation);
             Calcul.Executer();
 
-            Console.WriteLine("Le resultat de votre operation est:" + Calcul.Resultat);
+            Console.WriteLine($"{Calcul.Operation.ToString()} = {Calcul.Operation.Resultat}");
         }
 
         Console.WriteLine("----------------------");
         Console.WriteLine("Historique:");
         foreach (var ope in Historique.Operations)
         {
-            Console.WriteLine(ope.ToString());
+            Console.WriteLine($"{ ope.ToString()} = {ope.Resultat}");
         }
     }
 }

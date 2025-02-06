@@ -20,7 +20,7 @@ namespace TPCalculatrice.Operations
 
         public override string ToString()
         {
-            return $"{OperandeGauche} Math.Pow {OperandeDroite} = {Resultat}";
+            return $"{OperandeGauche} Math.Pow {OperandeDroite}";
         }
     }
 }
